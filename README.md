@@ -16,7 +16,7 @@ In the end I have decided to go with **Visual Studio** because I have read that 
 ## 1. Pros 
 
  * Lightweigt
- ..* there is some contraversy about it 
+   * there is some contraversy about it 
  * Easy to use 
  * Strong community 
  * Free / Open source
