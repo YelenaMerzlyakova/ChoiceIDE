@@ -12,11 +12,14 @@ There are other IDE's that have caught my eye like *PHPStorm* and *Sublime*. PHP
 In the end I have decided to go with **Visual Studio** because I have read that it's mostly used by Frontend Devs, something that I aspire to do in the future. It also seems that it's one of the easiest tools to use. Easy tools for simple code will be the motto to go by. :smirk:
 
 > “Controlling complexity is the essence of computer programming.”
-
 >*(Brian Kernigan)*
 
 
-## 1. Pros 
+## Pros, cons and short overview
+
+Lets look at the next list of pros, cons and a table with their own sublists.
+
+### 1. Pros 
 
  * Lightweight
    * There is some controversy about this part 
