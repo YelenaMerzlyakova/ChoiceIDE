@@ -43,14 +43,11 @@ Strong Community	| Labourous installation
 Features	| Lightweight?
 
 
-
-- [x] this is a complete item
-- [ ] this is an incomplete item
-- [x] @mentions, #refs, links,
-formatting, and <del>tags</del>
-supported
-[x] list syntax required (any
-unordered or ordered list
-supported)
+## Checklist of things to do 
+- [x] Research IDE's
+- [x] Compare
+- [x] Write documentation
+- [ ] Install
+- [ ] Get to know
 
 
