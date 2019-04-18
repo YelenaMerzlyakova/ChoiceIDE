@@ -5,11 +5,15 @@
 
 [**Visual Studio Homepage**](https://visualstudio.microsoft.com/vs/ "Visual Studio Homepage")
 
-## My Choice of IDE
+## But why VSCode?
 
 There are other IDE's that have caught my eye like *PHPStorm* and *Sublime*. PHPStorm was too expensive and mostly used for backend and I've used sublime before so I prefer to try something new. 
 
-In the end I have decided to go with **Visual Studio** because I have read that it's mostly used by Frontend Devs, something that I aspire to do in the future. It also seems that it's one of the easiest tools to use. Easy tools for simple code will be the motto to go by. :smirk:
+In the end I have decided to go with **Visual Studio** because I have read that it's mostly used by Frontend Devs, something that I aspire to do in the future. 
+
+It seems impressive to me with its modern UI, a wide availability of extensions, as well as great features such as built-in Git and terminal.
+
+It also seems that it's one of the easiest tools to use. Easy tools for simple code will be the motto to go by. :smirk:
 
 > “Controlling complexity is the essence of computer programming.”
 >*(Brian Kernigan)*
