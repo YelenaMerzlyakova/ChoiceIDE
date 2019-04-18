@@ -9,8 +9,8 @@ Deadline
 ETA: 11'o clock
 
 # Exercises
-Search for different IDE's online
-Think about the pros and cons of your chosen IDE and prepare a readme.md
+1.Search for different IDE's online
+2.Think about the pros and cons of your chosen IDE and prepare a readme.md
 Push that readme.md to a new repository, call it IDE-research
 Make sure the repository is public (*)
 Make sure the readme has at least:
