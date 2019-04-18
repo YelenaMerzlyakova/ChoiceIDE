@@ -47,7 +47,7 @@ Strong Community	| Labourous installation
 Features	| Lightweight?
 
 
-## Checklist of things to do 
+## Get to know an IDE
 - [x] Research IDE's
 - [x] Compare
 - [x] Write documentation
