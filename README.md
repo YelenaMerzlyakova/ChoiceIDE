@@ -2,18 +2,33 @@
 
 ![Visual Studio IDE](https://visualstudio.microsoft.com/wp-content/uploads/2018/11/vsplogo.png)
 
-# VISUAL STUDIO URL
 
-[Visual Studio Homepage](https://visualstudio.microsoft.com/vs/ "Visual Studio Homepage")
+[**Visual Studio Homepage**](https://visualstudio.microsoft.com/vs/ "Visual Studio Homepage")
 
-## IDE's
+## My Choice of IDE
 
 There are other IDE's that have caught my eye like *PHPStorm* and *Sublime*. PHPStorm was too expensive and mostly used for backend and I've used sublime before so I prefer to try something new. 
 
 In the end I have decided to go with **Visual Studio** because I have read that it's mostly used for Frontend Devs, something that I aspire to do in the future. 
 
 
+## 1. PRO's 
 
+ * Lightweigt
+ * Easy to use 
+ * Strom community 
+ * Free / Open source
+ * Git integrated
+ * Fast 
+ * Unit testing
+ * Loads of features
+ 
+## 2. Con's
+
+ * Labourous installion
+ *
+
+## 3. Final State
 
 
 
