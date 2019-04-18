@@ -55,9 +55,12 @@ Features	| Lightweight?
 - [ ] Get to know
 
 
+## Let's Go! 
+
+
 
 ```
-function StartTo() {
-  console.log("notice the blank line before this function?");
+function VisualStudio() {
+  console.log("Start to Code!");
 }
 ```
