@@ -1,10 +1,12 @@
-# VISUAL STUDIO
+# VISUAL STUDIO IDE
 
 ![Visual Studio IDE](https://visualstudio.microsoft.com/wp-content/uploads/2018/11/vsplogo.png)
 
 # VISUAL STUDIO URL
 
-https://visualstudio.microsoft.com/vs/
+[Visual Studio Homepage](https://visualstudio.microsoft.com/vs/ "Visual Studio Homepage")
+
+
 
 Editors
 As a web developer an IDE (Integrated development environment) is an absolute must! Since there is a whole lot of software available on the market, it is very important that you find one that fits your style of coding...
