@@ -6,7 +6,11 @@
 
 [Visual Studio Homepage](https://visualstudio.microsoft.com/vs/ "Visual Studio Homepage")
 
+## IDE's
 
+There are other IDE's that have caught my eye like *PHPStorm* and *Sublime*. PHPStorm was too expensive and mostly used for backend and I've used sublime before so I prefer to try something new. 
+
+In the end I have decided to go with **Visual Studio** because I have read that it's mostly used for Frontend Devs, something that I aspire to do in the future. 
 
 Editors
 As a web developer an IDE (Integrated development environment) is an absolute must! Since there is a whole lot of software available on the market, it is very important that you find one that fits your style of coding...
