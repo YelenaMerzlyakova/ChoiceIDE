@@ -10,12 +10,13 @@
 
 There are other IDE's that have caught my eye like *PHPStorm* and *Sublime*. PHPStorm was too expensive and mostly used for backend and I've used sublime before so I prefer to try something new. 
 
-In the end I have decided to go with **Visual Studio** because I have read that it's mostly used for Frontend Devs, something that I aspire to do in the future. 
+In the end I have decided to go with **Visual Studio** because I have read that it's mostly used for Frontend Devs, something that I aspire to do in the future. It also seems that it's one of the easiest tools to use hence my choice because not only shouldn't you write a complex code, you should keep the 
 
 
 ## 1. PROS 
 
  * Lightweigt
+ ..* there is some contraversy about it 
  * Easy to use 
  * Strong community 
  * Free / Open source
