@@ -55,3 +55,9 @@ Features	| Lightweight?
 - [ ] Get to know
 
 
+
+'''
+function StartTo() {
+  console.log("notice the blank line before this function?");
+}
+'''
