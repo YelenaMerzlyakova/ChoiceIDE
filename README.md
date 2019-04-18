@@ -1,4 +1,3 @@
-% Visual Studio
 # VISUAL STUDIO IDE
 
 ![Visual Studio IDE](https://visualstudio.microsoft.com/wp-content/uploads/2018/11/vsplogo.png)
