@@ -1,3 +1,4 @@
+% Visual Studio
 # VISUAL STUDIO IDE
 
 ![Visual Studio IDE](https://visualstudio.microsoft.com/wp-content/uploads/2018/11/vsplogo.png)
@@ -16,17 +17,18 @@ In the end I have decided to go with **Visual Studio** because I have read that 
 
  * Lightweigt
  * Easy to use 
- * Strom community 
+ * Strong community 
  * Free / Open source
- * Git integrated
- * Fast 
+ * Git integrated 
  * Unit testing
  * Loads of features
  
 ## 2. Con's
 
  * Labourous installion
- *
+ * Slow launch time
+ * Uses a lot of memory eventho it's lightweight (remains to be seen)
+ * 
 
 ## 3. Final State
 
