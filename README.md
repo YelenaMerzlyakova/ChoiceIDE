@@ -56,8 +56,8 @@ Features	| Lightweight?
 
 
 
-'''
+```
 function StartTo() {
   console.log("notice the blank line before this function?");
 }
-'''
+```
