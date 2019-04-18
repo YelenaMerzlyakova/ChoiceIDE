@@ -31,13 +31,13 @@ Lets look at the next list of pros, cons and a table with their own sublists.
  * Unit testing
  * Loads of features
  
-## 2. Cons
+### 2. Cons
 
  * Labourous installion
  * Slow launch time
  * Uses a lot of memory eventhough it's lightweight (remains to be seen)
 
-## 3. Table Presentation
+### 3. Table Presentation
 
 A concise representation of a few key pros and cons.
 
