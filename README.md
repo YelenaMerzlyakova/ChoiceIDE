@@ -46,14 +46,13 @@ Features	| Lightweight?
 
 
 
+- [x] this is a complete item
+- [ ] this is an incomplete item
+- [x] @mentions, #refs, links,
+formatting, and <del>tags</del>
+supported
+[x] list syntax required (any
+unordered or ordered list
+supported)
 
-# Exercises
-1. Search for different IDE's online
-2. Think about the pros and cons of your chosen IDE and prepare a readme.md
-Push that readme.md to a new repository, call it IDE-research
-Make sure the repository is public (*)
-Make sure the readme has at least:
-A download link of the IDE
-Three positives
-Three negatives
-No.1 Reason why you chose this IDE
+
