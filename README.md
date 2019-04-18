@@ -1,6 +1,6 @@
 # VISUAL STUDIO IDE
 
-![Visual Studio IDE](https://visualstudio.microsoft.com/wp-content/uploads/2018/11/vsplogo.png)
+![Visual Studio IDE](https://blog.launchdarkly.com/wp-content/uploads/2018/10/visualstudio_code-card.png)
 
 
 [**Visual Studio Homepage**](https://visualstudio.microsoft.com/vs/ "Visual Studio Homepage")
