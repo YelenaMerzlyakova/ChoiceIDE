@@ -18,7 +18,7 @@ It also seems that it's one of the easiest tools to use. Easy tools for simple c
 
 ## Pros, cons and short overview
 
-Lets look at the next list of pros, cons and a table with their own sublists.
+Lets look at the next list of pros, cons and a small summary with their own sublists.
 
 ### 1. Pros 
 
@@ -37,7 +37,7 @@ Lets look at the next list of pros, cons and a table with their own sublists.
  * Slow launch time
  * Uses a lot of memory eventhough it's lightweight (remains to be seen)
 
-### 3. Table Presentation
+### 3. Small summary
 
 A concise representation of a few key pros and cons.
 
