@@ -61,11 +61,11 @@ Features	| Lightweight?
 ## Let's Go! 
 
     
-      ```
-      function VisualStudio() {
-      console.log("Start to Code!");
-      }
-      ```
+```javascript
+function VisualStudio() {
+console.log("Start to Code!");
+}
+```
       
       
  ```ruby
