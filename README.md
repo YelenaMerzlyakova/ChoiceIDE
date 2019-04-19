@@ -65,6 +65,8 @@ Features	| Lightweight?
     function VisualStudio = "JavaScript syntax highlighting";
     alert(s);
     ```
-    function VisualStudio() {
-    console.log("Start to Code!");
-    }
+    
+  function VisualStudio() {
+  console.log("Start to Code!");
+  }
+   
