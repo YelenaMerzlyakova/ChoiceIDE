@@ -1,5 +1,7 @@
 # IDE Research
 
+In this Readme file I'm going to document how I navigated through several IDE and the reason why I
+
 ![Visual Studio IDE](https://blog.launchdarkly.com/wp-content/uploads/2018/10/visualstudio_code-card.png)
 
 
