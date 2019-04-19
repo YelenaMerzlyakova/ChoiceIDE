@@ -1,6 +1,6 @@
 # IDE Research
 
-In this Readme file I'm going to document how I navigated through several IDE and the reason why I
+In this Readme file I'm going to document how I navigated through several IDE and the reason why, in the end, I went with Visual Studio Code.
 
 ![Visual Studio IDE](https://blog.launchdarkly.com/wp-content/uploads/2018/10/visualstudio_code-card.png)
 
@@ -44,7 +44,7 @@ Lets look at the next list of pros, cons and a small summary with their own subl
 A concise representation of a few key pros and cons.
 
 **PROS** | 	**CONS**
----|---
+:---:|:---:
 Open source |	Start up slower
 Strong Community	| Labourous installation
 Features	| Lightweight?
