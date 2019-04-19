@@ -1,6 +1,6 @@
 # IDE Research
 
-In this Readme file I'm going to document how I navigated through several IDE and the reason why, in the end, I went with Visual Studio Code.
+
 
 ![Visual Studio IDE](https://blog.launchdarkly.com/wp-content/uploads/2018/10/visualstudio_code-card.png)
 
@@ -9,7 +9,7 @@ In this Readme file I'm going to document how I navigated through several IDE an
 
 ## But why VSCode?
 
-There are other IDE's that have caught my eye like *PHPStorm* and *Sublime*. PHPStorm was too expensive and mostly used for backend and I've used sublime before so I prefer to try something new. In the end I have decided to go with **Visual Studio** because I have read that it's mostly used by Frontend Devs, something that I aspire to do in the future. <br/>
+    There are other IDE's that have caught my eye like *PHPStorm* and *Sublime*. PHPStorm was too expensive and mostly used for backend and I've used sublime before so I prefer to try something new. In the end I have decided to go with **Visual Studio** because I have read that it's mostly used by Frontend Devs, something that I aspire to do in the future. <br/>
 It seems impressive to me with its modern UI, a wide availability of extensions, as well as great features such as built-in Git and terminal.
 
 It also seems that it's one of the easiest tools to use. Easy tools for simple code will be the motto to go by. :smirk:
